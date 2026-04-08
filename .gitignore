@@ -1,0 +1,10 @@
+.conda/
+.photo_agent_work/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
